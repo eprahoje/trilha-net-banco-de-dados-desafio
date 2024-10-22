@@ -1,4 +1,4 @@
-#💻 Desafio de projeto - Trilha .NET | Banco de Dados
+# 💻 Desafio de projeto - Trilha .NET | Banco de Dados
 
 ## Desafio de projeto
 Para este desafio, precisei usar meus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da [DIO](https://www.dio.me).
